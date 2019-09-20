@@ -1,4 +1,6 @@
-The mash:
+--- Mash
+Consider lactic acid to bring water pH to ~7.0
+
 0.5 lb (2 cups) flaked wheat (Quaker oats), roasted on a baking sheet (optional)
 0.5 lb black patent malt
 0.5 lb UK roasted barley (US is okay if UK is unavailable)
@@ -8,6 +10,37 @@ The mash:
 7.2 lb 2-row
 0.9 lb Munich
 
+11.45 lb grain total, assumed 77F
+
+Stike water:
+150F strike temp +
+1.48 qt per pound grain =
+17.00 qts (4.25 gal) @ 159.7 (F)
+
+NOTE: Recirculate during heating & mashing.
+NOTE: This assumes your tun will absorb heat (a few degrees will be absorbed by the mash tun, this varies widely by the type of mash tun). Even if you 'pre-heat' the tun with a little boiling water, this may still be the case. Do not stabilize the tun at the strike temperature, and then add grains, or you will overshoot.
+Conclusion: 4.25 gal @ 158F
+
+Mash for 1 hour at 150F, while recirculating
+Colder means drier beer and higher ABV.  Hotter means sweeter beer with lower ABV.
+End with an iodine test.  Continue mashing as needed.
+
+
+--- Mash-out
+Heat sparge water to 170F.
+Set Mash&Boil to 170F.
+Continue recirculating.  Wait for heating.
+
+
+--- Sparge
+Cut heat to Sparge Water.  Allow to cool during sparge, as low as 165F.
+  Water >170F during late sparging will extract unwanted tannins.
+Sparge to total volume of ~6.5 gal (Mash & Boil loses ~1/2 gal per hour)
+Discard grain.
+On to the boil.
+
+
+--- Boil
 Sugars:
 1.0 lb powdered lactose (Add to boil)
 
@@ -26,13 +59,8 @@ White labs irish ale yeast (WLP004)
 
 Remove yeast from fridge, shake it up, set it aside.  The cabinet above the stove works well.
 
-If you're going to use the oats, toast 'em now.
-Bring about 2 gallons of water to about 150F.
-Steep grain bag for 30 minutes
-Remove grain bag, allow to drip dry-ish
-Bring to boil
-Remove from heat
-While stirring, add sugars.
+Bring to boil, remove from heat.
+While stirring, add lactose.
 Return to heat, bring to boil.
 
 60m: Add hops.  They'll boil up a lot, so add them a bit at a time.
@@ -46,10 +74,11 @@ Add yeast.
 Stir to aerate.
 Seal it up, ferment at least 1 week.
 
+Rack to secondary.
 Dump the cacao nibs into your carboy.
 Siphon beer from bucket into the carboy.
 Seal carboy with stopper and airlock, place in a dark place.  Light exposure to the hop compounds would skunk your beer.
 Ferment at least 1 week.
 
-Bottle or keg as normal.  Add the 1oz hazelnut extract at the same time as priming sugar (or directly to keg).
+Bottle or keg as normal.  Add hazelnut flavouring to taste (probably 0.25-0.5 oz)
 
